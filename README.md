@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wenjie Wang</h1>
 <h3 align="center">I'm Computer Science Student, Web Developer, and Designer</h3>
 
-- 🔭 I’m currently working on applying to graduate school for computer science in field of my interested
+- 🔭 I’m currently applying to graduate school for computer science in field of my interested
 - 🤓 I just finished my software engineering internship at Blackbaud on Payment Team
 - 🧑🏻‍💻 I'm interested in machine learning, web development, networking, and cloud computing
 - 🌱 I’m currently learning **docker and kubernete**
