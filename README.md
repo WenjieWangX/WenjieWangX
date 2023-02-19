@@ -5,7 +5,7 @@
 - 🤓 I just finished my software engineering internship at Blackbaud on Payment Team
 - 🧑🏻‍💻 I'm interested in machine learning, web development, networking, and cloud computing
 - 🌱 I’m currently learning **docker and kubernete**
-- 📫 How to reach me **jp1349785420@gmail.com**
+- 📫 How to reach me **wwang4@conncoll.edu**
 - 😄 Pronouns: He, Him, His
 
 <h3 align="left">Connect with me:</h3>
