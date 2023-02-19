@@ -2,9 +2,9 @@
 <h3 align="center">I'm Computer Science Student, Full Stack Developer, and Data Scienctist</h3>
 
 - 🔭 I’m currently searching for a software engineer internship for this upcoming summer
-- 💂 I'm been accepted to Master of Engineer in Computer Science at Cornell Tech Class of 2024
-- 🤓 I just finished my software engineering internship at Blackbaud on Payment Team
-- 🧑🏻‍💻 I'm interested in machine learning, web development, networking, and cloud computing
+- 💂 I have been accepted to the Master of Engineer in Computer Science program at Cornell Tech, Class of 2024
+- 🤓 I just completed my software engineering internship at Blackbaud on the Payment Team
+- 🧑🏻‍💻 I'm interested in machine learning, computer vision, web development, networking, and cloud computing
 - 🌱 I’m currently learning **docker and kubernete**
 - 📫 How to reach me **wwang4@conncoll.edu**
 - 😄 Pronouns: He, Him, His
