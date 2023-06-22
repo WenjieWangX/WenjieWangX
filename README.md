@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wenjie Wang</h1>
 <h3 align="center">I'm Computer Science Student, Full Stack Developer, and Data Scienctist</h3>
 
-- 🔭 I’m currently searching for a software engineer internship for this upcoming summer
+- 🔭 I'm recent graduate from Connecticut College with double major in Computer Science & Statistics and Data Science
 - 💂 I have been accepted to the Master of Engineer in Computer Science program at Cornell Tech, Class of 2024
-- 🤓 I just completed my software engineering internship at Blackbaud on the Payment Team
 - 🧑🏻‍💻 I'm interested in machine learning, computer vision, web development, networking, and cloud computing
-- 🌱 I’m currently learning **docker and kubernete**
+- 🌱 I’m currently working toward **AWS Certified Solutions Architect - Associate**
 - 📫 How to reach me **wwang4@conncoll.edu**
 - 😄 Pronouns: He, Him, His
 
